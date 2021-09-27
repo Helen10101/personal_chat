@@ -1,0 +1,4 @@
+#Wed Sep 22 16:27:11 EEST 2021
+base.0=/Users/helen_cach/Documents/IT/WTF-Lab-Jan/512180323/personal_chat/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
